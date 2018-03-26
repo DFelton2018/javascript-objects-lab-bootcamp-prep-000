@@ -19,3 +19,4 @@ function deleteFromObjectByKey (obj, key) {
   return delete obj.key;
   
 }
+
